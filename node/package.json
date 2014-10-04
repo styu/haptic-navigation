@@ -1,0 +1,21 @@
+{
+  "name": "haptic-navigation",
+  "description": "haptic navigation",
+  "version": "0.0.1-1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "underscore": "*",
+    "handlebars": "*",
+    "hbs": "*",
+    "body-parser": "*",
+    "mongoose": "*"
+  },
+  "subdomain": "pikaramen.haptic-navigation",
+  "scripts": {
+    "start": "app.js"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
